@@ -2,7 +2,7 @@
 
 ### How to install
 ```sh
-$ git clone https://dejanstankovic1980030@bitbucket.org/blazevskifilip/future-smith.git
+$ git clone https://github.com/starforce86/futures.git
 $ composer update
 $ composer dumpauto
 $ git submodule init
